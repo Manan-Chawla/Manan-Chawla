@@ -1,7 +1,7 @@
 <!-- 🌐 Tron / Ares Themed GitHub Profile README for Manan Chawla -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=Manan%20Chawla%20👨‍💻&fontSize=40&fontColor=0ff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://www.linkedin.com/in/mananchawla26/overlay/background-image/"/>
 </div>
 
 <h3 align="center">
